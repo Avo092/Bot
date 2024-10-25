@@ -1,0 +1,3 @@
+0 Patitos
+1 Pollitos
+2 Gansitos
